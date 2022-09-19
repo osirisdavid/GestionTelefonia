@@ -1,0 +1,54 @@
+C:\Users\osiri\Documents\SharpDevelop Projects\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.csprojResolveAssemblyReference.cache
+C:\Users\osiri\Documents\SharpDevelop Projects\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.exe.config
+C:\Users\osiri\Documents\SharpDevelop Projects\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.exe
+C:\Users\osiri\Documents\SharpDevelop Projects\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.pdb
+C:\Users\osiri\Documents\SharpDevelop Projects\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.exe
+C:\Users\osiri\Documents\SharpDevelop Projects\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.pdb
+C:\Users\osiri\Desktop\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.csprojResolveAssemblyReference.cache
+C:\Users\osiri\Desktop\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.exe
+C:\Users\osiri\Desktop\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.exe.config
+C:\Users\osiri\Desktop\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.exe
+C:\Users\osiri\Desktop\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.pdb
+C:\Users\osiri\Desktop\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.pdb
+E:\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.exe.config
+E:\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.exe
+E:\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.pdb
+E:\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.csprojResolveAssemblyReference.cache
+E:\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.exe
+E:\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.pdb
+D:\1. UNAJ\Algoritmo y Progrmacion\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.exe.config
+D:\1. UNAJ\Algoritmo y Progrmacion\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.exe
+D:\1. UNAJ\Algoritmo y Progrmacion\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.pdb
+D:\1. UNAJ\Algoritmo y Progrmacion\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.csprojResolveAssemblyReference.cache
+D:\1. UNAJ\Algoritmo y Progrmacion\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.exe
+D:\1. UNAJ\Algoritmo y Progrmacion\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.pdb
+F:\1. UNAJ\Algoritmo y Progrmacion\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.csprojResolveAssemblyReference.cache
+F:\1. UNAJ\Algoritmo y Progrmacion\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.exe
+F:\1. UNAJ\Algoritmo y Progrmacion\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.exe.config
+F:\1. UNAJ\Algoritmo y Progrmacion\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.exe
+F:\1. UNAJ\Algoritmo y Progrmacion\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.pdb
+F:\1. UNAJ\Algoritmo y Progrmacion\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.pdb
+C:\Users\tincho\Desktop\Proyecto Algoritmos\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.exe.config
+C:\Users\tincho\Desktop\Proyecto Algoritmos\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.exe
+C:\Users\tincho\Desktop\Proyecto Algoritmos\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.pdb
+C:\Users\tincho\Desktop\Proyecto Algoritmos\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.csprojResolveAssemblyReference.cache
+C:\Users\tincho\Desktop\Proyecto Algoritmos\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.exe
+C:\Users\tincho\Desktop\Proyecto Algoritmos\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.pdb
+D:\1. UNAJ\Algoritmo y Progrmacion\Trabajo Final\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.exe.config
+D:\1. UNAJ\Algoritmo y Progrmacion\Trabajo Final\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.exe
+D:\1. UNAJ\Algoritmo y Progrmacion\Trabajo Final\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.pdb
+D:\1. UNAJ\Algoritmo y Progrmacion\Trabajo Final\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.csprojResolveAssemblyReference.cache
+D:\1. UNAJ\Algoritmo y Progrmacion\Trabajo Final\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.exe
+D:\1. UNAJ\Algoritmo y Progrmacion\Trabajo Final\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.pdb
+F:\1. UNAJ\Algoritmo y Progrmacion\Trabajo Final\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.exe.config
+F:\1. UNAJ\Algoritmo y Progrmacion\Trabajo Final\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.exe
+F:\1. UNAJ\Algoritmo y Progrmacion\Trabajo Final\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.pdb
+F:\1. UNAJ\Algoritmo y Progrmacion\Trabajo Final\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.csprojResolveAssemblyReference.cache
+F:\1. UNAJ\Algoritmo y Progrmacion\Trabajo Final\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.exe
+F:\1. UNAJ\Algoritmo y Progrmacion\Trabajo Final\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.pdb
+F:\1. UNAJ\2 ° AÑO\Algoritmo y Progrmacion\Trabajo Final\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.exe.config
+F:\1. UNAJ\2 ° AÑO\Algoritmo y Progrmacion\Trabajo Final\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.exe
+F:\1. UNAJ\2 ° AÑO\Algoritmo y Progrmacion\Trabajo Final\TPFinalGestionCable\GestionTelefoniaCable\bin\Debug\GestionTelefoniaCable.pdb
+F:\1. UNAJ\2 ° AÑO\Algoritmo y Progrmacion\Trabajo Final\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.csprojResolveAssemblyReference.cache
+F:\1. UNAJ\2 ° AÑO\Algoritmo y Progrmacion\Trabajo Final\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.exe
+F:\1. UNAJ\2 ° AÑO\Algoritmo y Progrmacion\Trabajo Final\TPFinalGestionCable\GestionTelefoniaCable\obj\Debug\GestionTelefoniaCable.pdb
